@@ -16,13 +16,15 @@ This project implements an AI-powered typing assistant that can fix typos, casin
 
 1. The AI assistant runs in the background and listens for keyboard shortcuts.
 2. Press `Command+Option` to fix the selected text.
-3. Press `Command+Shift+I` to improve the wording of the selected text.
+3. Press `Command+Shift+I` to improve the wording of the selected text. 
 
-## Demo
 
-<video src="assets/video.mp4" width="800" height="300" controls>
-  Your browser does not support the video tag.
-</video>
+<p>
+  <video src="https://github.com/user-attachments/assets/f778aa75-76e7-4d85-8cdc-fe0ec69cf808" width="800" height="300" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 
 ## Features
